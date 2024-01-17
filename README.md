@@ -33,13 +33,7 @@ Efficiently search for specific student records using various criteria, enhancin
    ```bash
    git clone https://github.com/youssefgamal123/Student-Management-System/
    
-## Compile the C++ code
+2. **Compile the C++ code**
    
    ```bash
       g++ student_management_system.cpp -o student_management_system
-
-
-
-
-
-   
