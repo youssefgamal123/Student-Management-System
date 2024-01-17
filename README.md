@@ -40,5 +40,3 @@ Efficiently search for specific student records using various criteria, enhancin
 3. **Run the executable:**
 ```bash
 ./student_management_system
-   
-   
