@@ -35,14 +35,16 @@ Efficiently search for specific student records using various criteria, enhancin
 
 
 
-   2. **Compile the C++ code:**
 
+## Compile the C++ code
+   
    ```bash
       g++ student_management_system.cpp -o student_management_system
 
 
-   3. **Run the executable:**
 
+## Run the executable
+ 
    ```bash
      ./student_management_system
 
